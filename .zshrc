@@ -99,3 +99,10 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+#JAVA
+export JAVA_HOME=/media/canwaiting/9af5b16a-131c-411f-825d-a6916e96a6b4/canwaiting/jdk-11.0.12_linux-x64_bin/jdk-11.0.12
+export JRE_HOME=${JAVA_HOME}/jre
+export CLASSPATH=${JAVA_HOME}/lib:${JRE}/lib
+export PATH=${JAVA_HOME}/bin:$PATH
+

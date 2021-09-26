@@ -1,3 +1,1 @@
 set number
-"set cursorcolumn
-
