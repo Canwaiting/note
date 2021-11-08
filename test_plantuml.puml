@@ -1,0 +1,8 @@
+@startuml "ordre taking Classes"
+class order{
+    OrderId : guid
+    name:petter
+    age:10
+
+}
+@enduml
