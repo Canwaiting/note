@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="hGgu9oGcbEXNyslzznS4" name="第 1 页">
-        <mxGraphModel dx="1254" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="1928" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -95,40 +95,37 @@
                     <mxGeometry x="280" y="880" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="密码(user_pw)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="390" y="790" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="340" y="790" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="用户名(user_name)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="260" y="790" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="210" y="790" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" value="序号(user_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="140" y="790" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="42" value="()" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="125" y="1300" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="90" y="790" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" value="班级(stu_class)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="550" y="1110" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="480" y="1110" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="宿舍(stu_dorm)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="420" y="1110" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="350" y="1110" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="名字(stu_name)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="290" y="1110" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="220" y="1110" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="学号(stu_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="150" y="1110" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="80" y="1110" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="49" value="系统管理员(admin)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="790" y="880" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="845" y="890" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="密码(admin_pw)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="900" y="780" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="955" y="790" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="用户名(admin_name)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="770" y="780" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="825" y="790" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="52" value="序号(admin_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="650" y="780" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="705" y="790" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="学生(stu)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="280" y="1200" width="120" height="60" as="geometry"/>
@@ -142,32 +139,29 @@
                 <mxCell id="58" value="楼房(bldg)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="960" y="1190" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="()" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="135" y="1310" width="120" height="60" as="geometry"/>
+                <mxCell id="59" value="序号(emp_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2080" y="1105" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="()" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="145" y="1320" width="120" height="60" as="geometry"/>
+                <mxCell id="60" value="姓名(emp_name)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2230" y="1105" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="()" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="155" y="1330" width="120" height="60" as="geometry"/>
+                <mxCell id="61" value="人员来访(per_in)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1620" y="1120" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="62" value="所有宿舍(bldg_dorm)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="1030" y="1120" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" value="楼房号(bldg)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="63" value="楼房号(bldg_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="870" y="1120" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="64" value="宿舍" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="570" y="2220" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="65" value="宿舍（dorm)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="280" y="1550" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="66" value="()" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="320" y="1300" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="1290" y="890" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="68" value="宿舍编号(dorm_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="280" y="1470" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="1290" y="810" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="69" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
                     <mxGeometry x="1290" y="190" width="140" height="60" as="geometry"/>
@@ -264,6 +258,24 @@
                         <mxPoint x="620" y="540" as="sourcePoint"/>
                         <mxPoint x="620" y="380" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="123" value="管理员序号(admin_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="790" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="员工(emp)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2150" y="1200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="登记表(rec)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1560" y="1200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="学生进(stu_in)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1315" y="1120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="学生出(stu_out)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1460" y="1120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="人员结束来访(per_out)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1770" y="1120" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
