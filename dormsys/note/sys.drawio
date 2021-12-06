@@ -1,0 +1,82 @@
+<mxfile host="65bd71144e">
+    <diagram id="iqwz6qbOGwKIVq8nNVdf" name="第 1 页">
+        <mxGraphModel dx="1054" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="普通用户" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-3" value="登录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-4" value="管理员" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="707" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-13" value="增加学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="305" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-14" value="删除学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="295" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-15" value="外来人员离开" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="310" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-16" value="外来人员进入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="310" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-17" value="学生离开" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="300" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-18" value="学生进入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="310" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-20" value="查询学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="295" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-22" value="修改学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="295" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-23" value="学生信息管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-24" value="出入登记" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-27" value="用户管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-28" value="公寓管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="820" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-29" value="增加用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="320" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-30" value="删除用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="310" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-31" value="查询用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="310" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-32" value="修改用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="310" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-33" value="修改用户密码" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="320" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-34" value="楼房管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-35" value="宿舍管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="890" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-37" value="员工管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1030" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="d90480yquZR2CGh1cH3X-38" value="也是增删改查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000000;fontSize=31;" parent="1" vertex="1">
+                    <mxGeometry x="860" y="465" width="200" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
