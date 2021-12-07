@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="iqwz6qbOGwKIVq8nNVdf" name="第 1 页">
-        <mxGraphModel dx="1054" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+        <mxGraphModel dx="1878" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -74,7 +74,13 @@
                     <mxGeometry x="1030" y="330" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="d90480yquZR2CGh1cH3X-38" value="也是增删改查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000000;fontSize=31;" parent="1" vertex="1">
-                    <mxGeometry x="860" y="465" width="200" height="40" as="geometry"/>
+                    <mxGeometry x="580" y="545" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="退出系统" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-40" y="200" width="60" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
