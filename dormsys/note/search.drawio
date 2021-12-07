@@ -40,7 +40,7 @@
                 <mxCell id="40" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="330" y="50" width="60" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="看看数据是否传了进去" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="41" value="看看数据是否传了进去" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="400" y="60" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
