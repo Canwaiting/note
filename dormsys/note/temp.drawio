@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Lkra5sjvyhQqC_2qbyV4" name="第 1 页">
-        <mxGraphModel dx="1054" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="883" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -43,59 +43,68 @@
                 <mxCell id="52" value="跳转的逻辑" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="710" y="110" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="复习一轮计算机网络,把不会的先放着" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="53" value="复习一轮计算机网络,把不会的先放着，所有标记过的题目" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="2370" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" value="第一章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="54" value="第一章" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="1940" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="第二章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="55" value="第二章" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="2020" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="第一章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="56" value="第一章" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="920" y="2060" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="第一章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="57" value="第一章" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="930" y="2070" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" value="第三章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="58" value="第三章" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="2120" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
-                    <mxGeometry x="330" y="2260" width="60" height="80" as="geometry"/>
+                <mxCell id="59" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="2360" width="60" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="&lt;font color=&quot;#000000&quot;&gt;13:01&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="60" value="&lt;font color=&quot;#000000&quot;&gt;13:01&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="530" y="1940" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" value="&lt;font color=&quot;#000000&quot;&gt;15:09&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="62" value="&lt;font color=&quot;#000000&quot;&gt;15:09&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="540" y="2020" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" value="&lt;font color=&quot;#000000&quot;&gt;15:37&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="63" value="&lt;font color=&quot;#000000&quot;&gt;15:37&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="540" y="2040" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="&lt;font color=&quot;#000000&quot;&gt;15:37&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="64" value="&lt;font color=&quot;#000000&quot;&gt;15:37&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="550" y="2120" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="65" value="&lt;font color=&quot;#000000&quot;&gt;16:02&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="65" value="&lt;font color=&quot;#000000&quot;&gt;16:02&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="550" y="2140" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="66" value="第四章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="66" value="第四章" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="2200" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="&lt;font color=&quot;#000000&quot;&gt;16:45&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="67" value="&lt;font color=&quot;#000000&quot;&gt;16:45&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="550" y="2200" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="68" value="&lt;font color=&quot;#000000&quot;&gt;15:37&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="68" value="&lt;font color=&quot;#000000&quot;&gt;15:37&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="550" y="2220" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="69" value="第5章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="69" value="第5章" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="2270" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="&lt;font color=&quot;#000000&quot;&gt;19：53&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="72" value="&lt;font color=&quot;#000000&quot;&gt;19：53&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="550" y="2270" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="73" value="&lt;font color=&quot;#000000&quot;&gt;20:19&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="73" value="&lt;font color=&quot;#000000&quot;&gt;20:19&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="550" y="2290" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="复习第二轮,把第一轮不会的也弄懂" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="2520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="复习第三轮,把选择填空找到相应的地方" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="2660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="复习第四轮,大题和选择填空都复习一遍" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="2750" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
