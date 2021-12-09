@@ -1,5 +1,15 @@
 chapter3
 
+
+
+
+chapter4
++ 7
++ 8
++ 12
++ 13
+chapter3
+
 chapter6 
 + 5
 + 8
@@ -11,4 +21,8 @@ chapter8
 + 4
 + 6
 + 9
++ 13
++ 14
++ 16
++ 18
 
