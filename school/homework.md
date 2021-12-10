@@ -17,28 +17,26 @@ chapter 4:
 + 4 
 + 7
 + 8
-+ 12
++ 12-1
 + 14
 + 15
-+ 16
++ 16-1
 + 17
 + 18
 + 19
-+ 20
-
-new_chapter 5: 
-all the chapter 5 is not remember
-new_chapter 7: 
-all the chapter 7 is not remember
++ 20 
 
 chapter 5: 
 + 3 
-+ 6
++ 6-1
 + 7
-+ 8
++ 8-1
 + 9
 + 10
-+ 12
++ 11
++ 12-1
++ 16
++ 20
 
 chapter 6:
 + 1
@@ -49,6 +47,11 @@ chapter 6:
 + 6
 
 chapter 7
++ 3
++ 12
++ 18 
++ 19
++ 20
 
 chapter 8
 + 4
