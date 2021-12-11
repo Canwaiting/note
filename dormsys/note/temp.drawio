@@ -4,23 +4,8 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="77" value="一轮复习全选择大题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="390" y="570" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="78" value="二轮复习不会的选择大题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="400" y="740" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="79" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
-                    <mxGeometry x="320" y="560" width="60" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="80" value="&lt;font color=&quot;#000000&quot;&gt;14：37&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="510" y="540" width="50" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="81" value="第三轮复习题库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="710" y="620" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="82" value="&lt;font color=&quot;#000000&quot;&gt;15:01&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="510" y="570" width="50" height="20" as="geometry"/>
+                <mxCell id="83" value="尝试是否可以用ajax,url那种去" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="370" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
