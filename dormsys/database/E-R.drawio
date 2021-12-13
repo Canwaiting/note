@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="hGgu9oGcbEXNyslzznS4" name="第 1 页">
-        <mxGraphModel dx="1757" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="1054" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -112,17 +112,17 @@
                 <mxCell id="60" value="姓名(emp_name)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1730" y="975" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" value="所有宿舍(bldg_dorm)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="915" y="1290" width="120" height="60" as="geometry"/>
+                <mxCell id="62" value="所在地区(bldg_pos)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1065" y="1290" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="63" value="楼房号(bldg_id)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="770" y="1290" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="65" value="宿舍（dorm)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1310" y="1070" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="1310" y="1080" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="68" value="宿舍编号(dorm_id)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1310" y="990" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="1200" y="990" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="88" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px&quot;&gt;m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=30;" parent="1" vertex="1">
                     <mxGeometry x="2220" y="650" width="40" height="40" as="geometry"/>
@@ -360,6 +360,15 @@
                 </mxCell>
                 <mxCell id="195" value="学生姓名(stu_name)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="305" y="1580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="196" value="楼房号(bldg_id)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1440" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="197" value="层数(bldg_floor)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="930" y="1290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="198" value="容纳人数(dorm_size)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1320" y="990" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
