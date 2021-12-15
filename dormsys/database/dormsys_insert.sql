@@ -150,21 +150,21 @@ INSERT INTO rec_stu(rec_id,stu_id,stu_name,rec_stu_sta,rec_stu_time)
 ('003001','1901003','贺才良','出','2022-10-2');
 
 
-INSERT INTO rec_stu(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
+INSERT INTO rec_per(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
     VALUES
 ('002001','周绍祺','34821784','进','2022-12-1');
-INSERT INTO rec_stu(rec_id,stu_id,stu_name,rec_stu_sta,rec_stu_time)
+INSERT INTO rec_per(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
     VALUES
 ('001001','郜飞文','321784','进','2022-12-2');
-INSERT INTO rec_stu(rec_id,stu_id,stu_name,rec_stu_sta,rec_stu_time)
+INSERT INTO rec_per(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
     VALUES
 ('001001','郜飞文','321784','出','2022-12-2');
-INSERT INTO rec_stu(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
+INSERT INTO rec_per(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
     VALUES
 ('002001','郭涵蓄','53785723','进','2022-12-2');
-INSERT INTO rec_stu(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
+INSERT INTO rec_per(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
     VALUES
 ('001001','阚兴为','38758573','进','2022-12-2');
-INSERT INTO rec_stu(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
+INSERT INTO rec_per(rec_id,per_name,per_tel,rec_per_sta,rec_per_time)
     VALUES
 ('001001','詹嘉谊','577773534','进','2022-12-3');

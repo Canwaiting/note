@@ -36,7 +36,7 @@ create table dorm(
     dorm_id varchar(255) not null,
     dorm_size varchar(50) not null,
     bldg_id varchar(255) not null,
-    PRIMARY KEY (bldg_id),
+    PRIMARY KEY (dorm_id),
     FOREIGN KEY(bldg_id) REFERENCES bldg(bldg_id) 
 )ENGINE=InnoDB DEFAULT CHARSET=utf8; 
 
@@ -66,7 +66,6 @@ create table rec_stu(
     stu_name varchar(50) not null,
     rec_stu_sta varchar(50) not null,
     rec_stu_time varchar(255) not null,
-    PRIMARY KEY (rec_id),
     FOREIGN KEY(rec_id) REFERENCES rec(rec_id), 
     FOREIGN KEY(stu_id) REFERENCES stu(stu_id) 
 )ENGINE=InnoDB DEFAULT CHARSET=utf8; 
@@ -78,7 +77,6 @@ create table rec_per(
     per_tel varchar(255) not null,
     rec_per_sta varchar(50) not null,
     rec_per_time varchar(255) not null,
-    PRIMARY KEY (rec_id),
     FOREIGN KEY(rec_id) REFERENCES rec(rec_id) 
 )ENGINE=InnoDB DEFAULT CHARSET=utf8; 
 
