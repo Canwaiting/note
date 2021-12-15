@@ -23,16 +23,6 @@ create table emp(
     PRIMARY KEY (emp_id)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8; 
 
-drop table if exists stu;
-create table stu(
-    stu_id varchar(255) not null,
-    stu_name varchar(50) not null,
-    stu_class varchar(255) not null,
-    dorm_id varchar(255) not null,
-    PRIMARY KEY (stu_id)
-)ENGINE=InnoDB DEFAULT CHARSET=utf8; 
-
-
 drop table if exists bldg;
 create table bldg(
     bldg_id varchar(255) not null,
@@ -49,6 +39,17 @@ create table dorm(
     PRIMARY KEY (bldg_id),
     FOREIGN KEY(bldg_id) REFERENCES bldg(bldg_id) 
 )ENGINE=InnoDB DEFAULT CHARSET=utf8; 
+
+drop table if exists stu;
+create table stu(
+    stu_id varchar(255) not null,
+    stu_name varchar(50) not null,
+    stu_class varchar(255) not null,
+    dorm_id varchar(255) not null,
+    PRIMARY KEY (stu_id)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8; 
+
+
 
 drop table if exists rec;
 create table rec(
