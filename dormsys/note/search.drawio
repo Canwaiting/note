@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="7FFb0TxwRFDYi6DLBVxe" name="第 1 页">
-        <mxGraphModel dx="2078" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="2254" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -43,19 +43,16 @@
                 <mxCell id="41" value="看看数据是否传了进去" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-1090" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="special_inter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="42" value="special_inter" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="360" y="370" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="special_impl" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="650" y="240" width="120" height="60" as="geometry"/>
+                <mxCell id="43" value="special_impl" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="230" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" value="whole inter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="46" value="whole inter" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="180" y="370" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="TODO:href传递的是get&lt;br&gt;跳到了servlet就无法跳回到jsp&lt;br&gt;jsp&lt;br&gt;请求无法同时后的" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="290" width="120" height="140" as="geometry"/>
-                </mxCell>
-                <mxCell id="49" value="查询功能" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="49" value="查询功能" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="700" y="370" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
