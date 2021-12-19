@@ -1,92 +1,230 @@
 <mxfile host="65bd71144e">
     <diagram id="iqwz6qbOGwKIVq8nNVdf" name="第 1 页">
-        <mxGraphModel dx="1881" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+        <mxGraphModel dx="2584" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="3" value="普通用户" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="160" y="130" width="120" height="60" as="geometry"/>
+                <mxCell id="3" value="普通用户" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="150" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-3" value="登录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="420" y="10" width="120" height="60" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-3" value="登录" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="-10" width="140" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-4" value="管理员" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="707" y="130" width="120" height="60" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-4" value="管理员" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1073.5" y="150" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-13" value="增加学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="305" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-13" value="增加学生信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-14" value="删除学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="60" y="295" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-14" value="删除学生信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-15" value="外来人员离开" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="414" y="310" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-16" value="访客登记" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-16" value="外来人员进入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="360" y="310" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-20" value="查询学生信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-17" value="学生离开" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="300" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-22" value="修改学生信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-18" value="学生进入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="260" y="310" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-23" value="学生信息管理" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-50" y="345" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-20" value="查询学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="150" y="295" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-24" value="出入登记" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="345" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-22" value="修改学生信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="110" y="295" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-27" value="用户管理" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="657" y="345" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-23" value="学生信息管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="210" width="120" height="60" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-28" value="公寓管理" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1330" y="345" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-24" value="出入登记" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="280" y="200" width="120" height="60" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-29" value="增加用户信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="643" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-27" value="用户管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="540" y="200" width="120" height="60" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-30" value="删除用户信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="683" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-28" value="公寓管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="820" y="210" width="120" height="60" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-31" value="查询用户信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="763" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-29" value="增加用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="510" y="320" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-32" value="修改用户信息" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="723" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-30" value="删除用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="550" y="310" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-33" value="修改用户密码" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="803" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-31" value="查询用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="640" y="310" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-34" value="楼房管理" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1210" y="440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-32" value="修改用户信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="600" y="310" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-35" value="宿舍管理" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1450" y="440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-33" value="修改用户密码" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="680" y="320" width="20" height="170" as="geometry"/>
+                <mxCell id="d90480yquZR2CGh1cH3X-37" value="员工管理" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="930" y="345" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-34" value="楼房管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="740" y="330" width="120" height="60" as="geometry"/>
+                <mxCell id="8" value="增加楼房" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1216.5" y="555" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-35" value="宿舍管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="890" y="330" width="120" height="60" as="geometry"/>
+                <mxCell id="9" value="删除楼房" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1256.5" y="555" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-37" value="员工管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1030" y="330" width="120" height="60" as="geometry"/>
+                <mxCell id="10" value="查询楼房信息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1340" y="555" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="d90480yquZR2CGh1cH3X-38" value="也是增删改查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000000;fontSize=31;" parent="1" vertex="1">
-                    <mxGeometry x="580" y="545" width="200" height="40" as="geometry"/>
+                <mxCell id="11" value="修改楼房信息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1300" y="555" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="退出系统" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="610" width="120" height="60" as="geometry"/>
+                <mxCell id="16" value="查看所有学生信息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-                    <mxGeometry x="-310" y="330" width="60" height="80" as="geometry"/>
+                <mxCell id="17" value="查看所有登记表" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rotation=5;" parent="1" vertex="1">
-                    <mxGeometry x="740" y="305" width="60" height="80" as="geometry"/>
+                <mxCell id="18" value="学生登记" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="440" width="20" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="查询impl" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="1060" y="60" width="250" height="150" as="geometry"/>
+                <mxCell id="20" value="查看所有楼房" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1173.5" y="555" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="增加宿舍" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1473" y="555" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="删除宿舍" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1513" y="555" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="查询宿舍信息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1603" y="555" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="修改宿舍信息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1563" y="555" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="查看所有宿舍" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1430" y="555" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="增加员工" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="936.5" y="440" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="删除员工" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="976.5" y="440" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="查询员工信息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1066.5" y="440" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="修改员工" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="1026.5" y="440" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="查看所有员工" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="893.5" y="440" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="查看所有用户信息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="440" width="20" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="320" as="sourcePoint"/>
+                        <mxPoint x="600" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="290" as="sourcePoint"/>
+                        <mxPoint x="480" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="290" as="sourcePoint"/>
+                        <mxPoint x="180" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d90480yquZR2CGh1cH3X-24">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="350" as="sourcePoint"/>
+                        <mxPoint x="300" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d90480yquZR2CGh1cH3X-4" target="d90480yquZR2CGh1cH3X-3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="777" y="280" as="sourcePoint"/>
+                        <mxPoint x="777" y="90" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="d90480yquZR2CGh1cH3X-23">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="10" y="290" as="sourcePoint"/>
+                        <mxPoint x="190" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="10" y="290" as="sourcePoint"/>
+                        <mxPoint x="180" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1134.83" y="290" as="sourcePoint"/>
+                        <mxPoint x="1134.83" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1390" y="290" as="sourcePoint"/>
+                        <mxPoint x="1134.83" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d90480yquZR2CGh1cH3X-28">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="964.83" y="290" as="sourcePoint"/>
+                        <mxPoint x="1390" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="720" y="290" as="sourcePoint"/>
+                        <mxPoint x="1134.83" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="d90480yquZR2CGh1cH3X-37">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="990" y="290" as="sourcePoint"/>
+                        <mxPoint x="974.8299999999999" y="355" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="720" y="350" as="sourcePoint"/>
+                        <mxPoint x="720" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1391" y="420" as="sourcePoint"/>
+                        <mxPoint x="1391.33" y="402.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1513" y="420" as="sourcePoint"/>
+                        <mxPoint x="1270" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1511.6599999999999" y="440" as="sourcePoint"/>
+                        <mxPoint x="1511" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d90480yquZR2CGh1cH3X-34">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1221.33" y="482.5" as="sourcePoint"/>
+                        <mxPoint x="1270" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="退出系统" style="whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="790" width="140" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
