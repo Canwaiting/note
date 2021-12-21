@@ -43,6 +43,15 @@
                 <mxCell id="14" value="输出控制台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="360" y="800" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="15" value="找一个可以运行的代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="1540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="修改成自己想要的" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="1780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="学习必须要学习的" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="1680" width="120" height="60" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
