@@ -34,23 +34,26 @@
                 <mxCell id="11" value="&lt;font color=&quot;#000000&quot;&gt;可能没有数据库&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="585" y="770" width="100" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="java程序" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="12" value="java程序" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="180" y="800" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="文本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="13" value="文本" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-10" y="800" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="输出控制台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="14" value="输出控制台" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="360" y="800" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="找一个可以运行的代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="80" y="1540" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="16" value="修改成自己想要的" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="16" value="修改成自己想要的" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="1780" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="学习必须要学习的" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="17" value="学习必须要学习的" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="1680" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="如果命令行不行则quit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="1780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="注意清理缓存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="1780" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
