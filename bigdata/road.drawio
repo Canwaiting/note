@@ -49,25 +49,25 @@
                 <mxCell id="17" value="学习必须要学习的" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="1680" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="如果命令行不行则quit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="19" value="如果命令行不行则quit" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="230" y="1780" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="注意清理缓存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="20" value="注意清理缓存" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="380" y="1780" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="调用hadoop的count" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="21" value="调用hadoop的count" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="1670" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="提前部署" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="22" value="提前部署" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="230" y="1610" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="不一定要调用hadoop平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="23" value="不一定要调用hadoop平台" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="420" y="1530" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="把shell脚本弄好" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="24" value="把shell脚本弄好" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-150" y="1480" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="idea执行脚本,然后读取脚本的输入,不然就输入到文本,然后读取文本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="25" value="idea执行脚本,然后读取脚本的输入,不然就输入到文本,然后读取文本" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-230" y="1710" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
