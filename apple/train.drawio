@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="i3EhzzTtTdFNXWbQwgCy" name="第 1 页">
+        <mxGraphModel dx="1054" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="制定健身计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="目标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="目标形体" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="目标力量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="训练计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="饮食计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
