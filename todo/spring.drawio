@@ -4,11 +4,17 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="健身" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="290" y="370" width="120" height="60" as="geometry"/>
+                <mxCell id="3" value="服务器" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="服务器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="560" y="380" width="120" height="60" as="geometry"/>
+                <mxCell id="4" value="csapp中的所有实验项目" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="15天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="350" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font color=&quot;#ffffff&quot;&gt;每天一道leetcode&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="880" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
